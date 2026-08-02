@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Staff Platform Engineer at VulcanForms Inc., working on building reliable, distributed systems spanning on-premise to cloud resources.
+I lead Platform Engineering at VulcanForms Inc., working on building reliable, distributed systems spanning on-premise to cloud resources.
 
 Here are some ideas to get you started:
 <!--
